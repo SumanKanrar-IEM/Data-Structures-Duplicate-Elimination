@@ -1,0 +1,12 @@
+python code/main.py input/100MB_20Percent 10 3 1048576 btree
+python code/main.py input/100MB_20Percent 10 3 1048576 hash
+python code/main.py input/1MB_50Percent 10 3 1048576 btree
+python code/main.py input/1MB_50Percent 10 3 1048576 hash
+python code/main.py input/100MB_20Percent 10 5 2097152 btree
+python code/main.py input/100MB_20Percent 10 5 2097152 hash
+python code/main.py input/1MB_50Percent 10 5 2097152 btree
+python code/main.py input/1MB_50Percent 10 5 2097152 hash
+python code/main.py input/100MB_20Percent 10 10 104857 btree
+python code/main.py input/100MB_20Percent 10 10 104857 hash
+python code/main.py input/1MB_50Percent 10 10 104857 btree
+python code/main.py input/1MB_50Percent 10 10 104857 hash
